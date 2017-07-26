@@ -1,0 +1,20 @@
+G:\Visual C#\Invoice Generator\Invoice Generator\bin\Debug\Invoice Generator.exe.config
+G:\Visual C#\Invoice Generator\Invoice Generator\bin\Debug\Invoice Generator.exe
+G:\Visual C#\Invoice Generator\Invoice Generator\bin\Debug\Invoice Generator.pdb
+G:\Visual C#\Invoice Generator\Invoice Generator\obj\Debug\Invoice Generator.csprojResolveAssemblyReference.cache
+G:\Visual C#\Invoice Generator\Invoice Generator\obj\Debug\Invoice_Generator.Form1.resources
+G:\Visual C#\Invoice Generator\Invoice Generator\obj\Debug\Invoice_Generator.Properties.Resources.resources
+G:\Visual C#\Invoice Generator\Invoice Generator\obj\Debug\Invoice Generator.csproj.GenerateResource.Cache
+G:\Visual C#\Invoice Generator\Invoice Generator\obj\Debug\Invoice Generator.exe
+G:\Visual C#\Invoice Generator\Invoice Generator\obj\Debug\Invoice Generator.pdb
+G:\Visual C#\Invoice Generator\Invoice Generator\obj\Debug\Invoice Generator.csproj.ResolveComReference.cache
+G:\Visual C#\Invoice Generator\Invoice Generator\bin\Debug\EntityFramework.dll
+G:\Visual C#\Invoice Generator\Invoice Generator\bin\Debug\EntityFramework.SqlServer.dll
+G:\Visual C#\Invoice Generator\Invoice Generator\bin\Debug\System.Data.SQLite.dll
+G:\Visual C#\Invoice Generator\Invoice Generator\bin\Debug\System.Data.SQLite.EF6.dll
+G:\Visual C#\Invoice Generator\Invoice Generator\bin\Debug\System.Data.SQLite.Linq.dll
+G:\Visual C#\Invoice Generator\Invoice Generator\bin\Debug\EntityFramework.xml
+G:\Visual C#\Invoice Generator\Invoice Generator\bin\Debug\EntityFramework.SqlServer.xml
+G:\Visual C#\Invoice Generator\Invoice Generator\bin\Debug\System.Data.SQLite.xml
+G:\Visual C#\Invoice Generator\Invoice Generator\obj\Debug\Invoice_Generator.purchase_form.resources
+G:\Visual C#\Invoice Generator\Invoice Generator\obj\Debug\Invoice_Generator.sell_form.resources
